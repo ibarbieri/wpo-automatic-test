@@ -5,12 +5,20 @@
 
 > via https://www.sitespeed.io/
 
-## Posts
 
+## Posts
 [Gulp integration](https://www.npmjs.com/package/gulp-sitespeedio)
 (Ankit Singhal - 4 Aug, 2011)
 
-##Collaborators
 
+## How to
+1. Step
+  * ...
+
+2. Step
+  * ...
+
+
+##Collaborators
 - [Ignacio Barbieri](https://github.com/ibarbieri)
 
