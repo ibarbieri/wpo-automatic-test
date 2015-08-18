@@ -18,6 +18,12 @@
 2. Step
   * ...
 
+## Send data to Grapite
+1. Step
+  * ...
+
+2. Step
+  * ...
 
 ##Collaborators
 - [Ignacio Barbieri](https://github.com/ibarbieri)
