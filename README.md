@@ -5,25 +5,34 @@
 
 > via https://www.sitespeed.io/
 
+## Dependecies
+NodeJs
+Gulp
+
+## How to
+1. Run in the console
+  * sudo npm install
+
+2. Configure yours urls to test and the budget rules in config/testsConfig.js
+  * testTitle: 'Your test Title',
+  * url: 'http://yoursiteurl.com',
+  * score: 80
+
+3. View results in /test-results/wpo
+
+## Other tests
+1. Google Page Speed Insight
+  * In te terminal run: gulp gspi --url yourUrl
+
+2. Web Page Test
+  * In te terminal run: gulp webpagetest --url yourUrl
 
 ## Posts
 [Gulp integration](https://www.npmjs.com/package/gulp-sitespeedio)
-(Ankit Singhal - 4 Aug, 2011)
+(Ankit Singhal - Aug, 2011)
 
-
-## How to
-1. Step
-  * ...
-
-2. Step
-  * ...
-
-## Send data to Grapite
-1. Step
-  * ...
-
-2. Step
-  * ...
+[Test rules](https://www.sitespeed.io/documentation/rules-and-best-practices/)
+(Peter Hedenskog - Aug 2015)
 
 ##Collaborators
 - [Ignacio Barbieri](https://github.com/ibarbieri)

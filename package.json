@@ -1,0 +1,16 @@
+{
+  "name": "wpo-test-sitespeedio",
+  "version": "0.0.1",
+  "description": "WPO Test with Sitespeed.io",
+  "author": "Ignacio Barbieri <ignacio.barbieri@mercadolibre.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibarbieri/wpo-test-sitespeedio"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-sitespeedio": "0.0.5",
+    "yargs": "^3.19.0"
+  }
+}
