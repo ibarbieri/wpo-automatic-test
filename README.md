@@ -13,19 +13,19 @@
 - Run in the console
   * sudo npm install
 
-- Configure yours urls to test and the budget rules in config/testsConfig.js
+- Configure yours <strong>urls</strong> to test and the <strong>budget rules</strong> in <strong>config/testsConfig.js</strong>
   * testTitle: 'Your test Title',
   * url: 'http://yoursiteurl.com',
   * score: 80
 
-- View results in /test-results/wpo
+- View results in <strong>/test-results/wpo</strong>
 
 ## Other tests
 - Google Page Speed Insight
-  * In te terminal run: gulp gspi --url yourUrl
+  * In te terminal run: <strong>gulp gspi --url yourUrl</strong>
 
 - Web Page Test
-  * In te terminal run: gulp webpagetest --url yourUrl
+  * In te terminal run: <strong>gulp webpagetest --url yourUrl</strong>
 
 ## Posts
 [Gulp integration](https://www.npmjs.com/package/gulp-sitespeedio)
