@@ -11,12 +11,15 @@
 
 ## How to
 - Run in the console
-  * sudo npm install
+  * <strong>sudo npm install</strong>
 
 - Configure yours <strong>urls</strong> to test and the <strong>budget rules</strong> in <strong>config/testsConfig.js</strong>
   * testTitle: 'Your test Title',
   * url: 'http://yoursiteurl.com',
   * score: 80
+
+- Run test in the console
+  * <strong>gulp wpo</strong>
 
 - View results in <strong>/test-results/wpo</strong>
 
