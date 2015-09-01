@@ -34,6 +34,18 @@ Gulp
 [Test rules](https://www.sitespeed.io/documentation/rules-and-best-practices/)
 (Peter Hedenskog - Aug 2015)
 
+[Critical Rendering path](http://calendar.perfplanet.com/2012/deciphering-the-critical-rendering-path/)
+(Ilya Grigorik - Dec 2012)
+
+[Css and de Critical Path](http://www.phpied.com/css-and-the-critical-path/)
+(Stoyan Stefanov - Jun 2012)
+
+[14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
+(Steve Souders - May 2012)
+
+[High Performance Web Sites Blog](http://www.stevesouders.com/)
+(Steve Souders)
+
 ##Collaborators
 - [Ignacio Barbieri](https://github.com/ibarbieri)
 
