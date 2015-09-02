@@ -52,6 +52,12 @@
 [Load 3rd party JS asyncrhonously](http://www.phpied.com/3PO/#async)
 (Stoyan Stefanov - Jun 2012)
 
+[How to make a performance budget](http://danielmall.com/articles/how-to-make-a-performance-budget/)
+(Daniel Mall - Jan 2015)
+
+[Setting a performance budget](http://timkadlec.com/2013/01/setting-a-performance-budget/)
+(Tim Kadlec - Jan 2013)
+
 ##Collaborators
 - [Ignacio Barbieri](https://github.com/ibarbieri)
 
