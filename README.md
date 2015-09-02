@@ -46,6 +46,9 @@ Gulp
 [High Performance Web Sites Blog](http://www.stevesouders.com/)
 (Steve Souders)
 
+[Load 3rd party JS asyncrhonously](http://www.phpied.com/3PO/#async)
+(Stoyan Stefanov - Jun 2012)
+
 ##Collaborators
 - [Ignacio Barbieri](https://github.com/ibarbieri)
 
