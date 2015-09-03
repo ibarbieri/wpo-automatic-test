@@ -58,6 +58,15 @@
 [Setting a performance budget](http://timkadlec.com/2013/01/setting-a-performance-budget/)
 (Tim Kadlec - Jan 2013)
 
+##Follow, up to day
+If you’re interested in performance, here are some people and organizations you should be following:
+- [Tim Kadlec - @tkadlec](http://twitter.com/tkadlec)
+- [Paul Irish - @paul_irish](http://twitter.com/paul_irish)
+- [Yesica Perez-Cruz - @yeseniaa](http://twitter.com/yeseniaa)
+- [Scott Jehl - @scottjehl](http://twitter.com/scottjehl)
+- [Katie Kowalcin - @katiekovalcin](http://twitter.com/katiekovalcin)
+- [Ilya Grigorik - @igrigorik](http://twitter.com/igrigorik)
+
 ##Collaborators
 - [Ignacio Barbieri](https://github.com/ibarbieri)
 
