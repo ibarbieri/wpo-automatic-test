@@ -24,6 +24,8 @@ var gulp = require('gulp'),
             url: element.url,
             html: true,
             showFailedOnly: false,
+            profile: element.profile,
+            connection: element.connection,
             resultBaseDir: 'test-results/wpo/sitespeedio/'+element.testTitle,        
             budget :{
                 rules: {
